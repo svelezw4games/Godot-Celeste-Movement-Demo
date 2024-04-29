@@ -13,7 +13,7 @@ config_version=5
 config/name="GodotCeleste"
 config/description="this is just a little demo that the celeste movement is trying out. Permission has been obtained for the use of the assets."
 run/main_scene="res://CelesteExample/Scenes/game_view.tscn"
-config/features=PackedStringArray("4.1", "Forward Plus")
+config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
